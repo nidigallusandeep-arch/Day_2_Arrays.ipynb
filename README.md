@@ -1,4 +1,4 @@
-Day 2 – Array Problems
+Day 2– Array Problems
 
 5️⃣ Rotate Array
 
